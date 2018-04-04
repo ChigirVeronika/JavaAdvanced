@@ -3,6 +3,7 @@ package com.veronika.advanced.generics;
 public class A {
     public static class X {
 
+
         public static class Y {
             private Y() {}
             public static String Z = "life is good";
