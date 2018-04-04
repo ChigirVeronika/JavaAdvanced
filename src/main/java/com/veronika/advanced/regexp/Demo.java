@@ -8,8 +8,9 @@ public class Demo {
         String s = "123-456";
         Pattern p = Pattern.compile("\\d{3}[-\\]\\d{3}]");
         Matcher m = p.matcher(s);
-        System.out.println(m.matches());
+        //System.out.println(m.matches());
 
         Class c;
     }
+
 }
