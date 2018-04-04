@@ -11,6 +11,7 @@ public class Demo {
         System.out.println(m.matches());
 
         Class c;
+        String empty = "";
     }
 
 }
