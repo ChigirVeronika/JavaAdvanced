@@ -7,6 +7,16 @@ public class MyAOP {
 
     private Integer i;
 
+    private String o;
+
+    public String getO() {
+        return o;
+    }
+
+    public void setO(String o) {
+        this.o = o;
+    }
+
     public Integer getI() {
         return i;
     }
